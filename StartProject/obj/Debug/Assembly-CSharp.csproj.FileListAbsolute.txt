@@ -278,3 +278,5 @@ D:\projects\ecginmotion\UnityProjects\001_Start\StartProject\obj\Debug\Assembly-
 D:\projects\ecginmotion\UnityProjects\001_Start\StartProject\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 D:\projects\ecginmotion\UnityProjects\001_Start\StartProject\obj\Debug\Assembly-CSharp.dll
 D:\projects\ecginmotion\UnityProjects\001_Start\StartProject\obj\Debug\Assembly-CSharp.pdb
+D:\projects\ecginmotion\UnityProjects\001_Start\StartProject\Temp\bin\Debug\Unity.DeviceSimulator.Editor.dll
+D:\projects\ecginmotion\UnityProjects\001_Start\StartProject\Temp\bin\Debug\Unity.DeviceSimulator.Editor.pdb
